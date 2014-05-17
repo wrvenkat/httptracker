@@ -16,6 +16,7 @@ Help
 Usage: ./httptracker -m -v -s -h -a -d -l -n count -i intf_name.
 
 -m - exclude packets from your machine on the interface(s) specified.
+
 -v - verbose output (print all of application layer data).
 -s - print src IP address of packets.
 -l - exclude any loopback interface when sniffing on all intefaces.
