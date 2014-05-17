@@ -14,6 +14,7 @@ You need super user privileges to get access to the interfaces and to run in pro
 Help
 ----
 Usage: ./httptracker -m -v -s -h -a -d -l -n count -i intf_name.
+
 -m - exclude packets from your machine on the interface(s) specified.
 -v - verbose output (print all of application layer data).
 -s - print src IP address of packets.
