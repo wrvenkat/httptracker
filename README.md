@@ -1,6 +1,5 @@
 httptracker
 ===========
-
 As an experiment with libpcap, this little tool outputs the hosts visited on port 80 and 8080
 
 Compilaation
@@ -11,11 +10,10 @@ Compilaation
 
 Running
 -------
-1. You need super user privileges to get access to the interfaces and to run in promiscuous mode.
+You need super user privileges to get access to the interfaces and to run in promiscuous mode.
 
 Help
 ----
-
 Usage: ./httptracker -m -v -s -h -a -d -l -n count -i intf_name
 -m - exclude packets from your machine on the interface(s) specified
 -v - verbose output (print all of application layer data)
