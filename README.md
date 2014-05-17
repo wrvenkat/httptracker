@@ -5,7 +5,6 @@ As an experiment with libpcap, this little tool outputs the hosts visited on por
 Compilaation
 ------------
 1. You'd need the libpcap-dev file to compile this.
-
 2. Running make inside the project folder will get you the executeable.
 
 Running
